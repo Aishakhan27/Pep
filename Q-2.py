@@ -1,4 +1,4 @@
-# weight[1.01,1.99,2.5,2.5,1.01],output=3
+# weight[1.01,1.99,2.5,2.5,1.01],output=4
 # carry one or more bags at a time,but the total weight of the bag should not exceed 3.00
 bag=int(input("Enter the number of bags: "))
 weight=[]
